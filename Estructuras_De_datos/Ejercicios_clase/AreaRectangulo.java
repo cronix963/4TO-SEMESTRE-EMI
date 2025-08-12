@@ -1,3 +1,4 @@
+package Estructuras_De_datos.Ejercicios_clase;
 public class AreaRectangulo {
 
     public static void main(String[] args) {
