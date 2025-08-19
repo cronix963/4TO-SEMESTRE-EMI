@@ -8,8 +8,8 @@ Todas las tarjetas de red tienen:
 ### Forma que ciajan los datos
 Un paquete tiene una unidad de informacion logicamente y tiene informacion del origen y el destino
 #### Protocolo
-- Detecta la conecccion fisica (claveado o no)
-- ...
+Detecta la conecccion fisica (claveado o no)
+
 El modelo de OSI tiene 7 capas:
 1. Fisico
 2. Enlace de datos
@@ -50,6 +50,5 @@ No erientado a la conexcion no hay un intecambio de datos inicial no hace nada q
 
 
 UDP no asegura la entrega confiable
-
 
 

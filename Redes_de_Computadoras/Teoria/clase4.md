@@ -1,15 +1,15 @@
-# Mascaras de red
+# Ejercicios
+Hallar el segmento de red y ver que direccion es:
+### 1.-
+#### 90.0.200.0/19
+Pasos:  
+1. Mascara 19 255.255.224.0
+2. Octeto de tranajo el segundo
+3. Restar $224-256=32$
+4. Dividir $200/32=6$
+5. Multiplicar $6*256=1536$
+6. Direcion Red 90.0.192.0
+7. Direccion Blortcast 90.0.223.255
 
-identifican segmentos de red ej:
-" 192.169.10.10 /24 "
-
-ese (24) son 24 bit de red
-y los ultimos 8 son de host
-
-## segmentos de red
-
-tienen:
-    1 Direccion de host -> ID dl segmento de red (la ip mas pequeña)
-    n Direcciones de host -> direcciones configurables 
-    1 Direccion de host -> ID de multifucion del segmento de red (la ip mas grande)
-
+### Es una Direccion Host
+ 
